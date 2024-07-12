@@ -33,3 +33,21 @@ git  branch    --ブランチの作成
 git checkout   --ブランチの切り替え
 
 
+git clone      --レポジトリをコピー
+
+
+gti pull       --リモートレポジトリの同期
+
+
+git push       --変更をアップロードする
+
+
+git request-pull  --プルリクエスト
+
+
+git remote    --リモートレポジトリの設定
+
+
+
+
+
