@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: flake8-report
-        path: flake8-report.txt  
+        path: flake8-report.txt
